@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 Hi, I'm Sachin
+🚀 Full Stack Developer (MERN)
 
-<!--
-**imeansachin/imeansachin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I build clean, scalable, and user-focused web applications using modern technologies.
+I enjoy turning ideas into real-world products with a strong focus on UI, performance, and usability.
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+⚛️ Frontend: React.js, Tailwind CSS, HTML, CSS, JavaScript
+🌐 Backend: Node.js, Express.js
+🍃 Database: MongoDB
+🔥 Tools & Others: Firebase, Git, GitHub, n8n (Automation)
+📌 About Me
+🎓 BCA Student passionate about development
+💡 Focused on building real-world projects
+🧠 Learning Full Stack & improving problem-solving skills
+🛠️ Secretary of Technical Committee (Event planning & execution)
+🚀 Projects
+💬 Real-Time Chat Application
+Built a responsive chat app with real-time messaging
+Focused on user experience and clean UI
+Learned component structure and API handling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 (Add your GitHub repo link here)
+
+🌐 More Projects Coming Soon...
+Full Stack MERN Projects
+AI-integrated applications
+Automation workflows
+🎯 Goals
+🚀 Get a Full Stack / Frontend Internship
+📈 Improve DSA & problem-solving
+🧑‍💻 Build impactful real-world projects
+🏆 Contribute to open source
+🤝 Connect With Me
+💼 LinkedIn: (Add your link)
+📧 Email: (Add your email)
+🌐 Portfolio: (Add if you have)
+⚡ Fun Fact
+
+I believe in learning by building — every project makes me better 🚀
